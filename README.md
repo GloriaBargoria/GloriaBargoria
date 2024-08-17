@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gloria</h1>
-<h3 align="center">A passionate software developer who loves Javascript</h3>
+<h3 align="center">A passionate software developer who loves Javascript. Currently learning and exploring Web3</h3>
 
-- 💬 Ask me about **NEXTjs, Reactjs and anything Javascript**
+<!-- - 💬 Ask me about **NEXTjs, Reactjs and anything Javascript** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
